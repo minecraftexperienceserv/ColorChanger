@@ -1,0 +1,4 @@
+name: ColorChanger
+version: '${project.version}'
+main: it.mcexp.colorchanger.Main
+api-version: 1.18
